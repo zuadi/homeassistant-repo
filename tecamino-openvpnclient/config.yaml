@@ -1,0 +1,24 @@
+name: "Tecamino OpenVPN® Client"
+version: "0.0.1"
+slug: "tecamino-openvpnclient"
+description: "Connects Home Assisatnt to a remote OpenVPN® Server"
+startup: "application"
+boot: "auto"
+init: false
+arch: 
+  - armhf
+  - armv7
+  - aarch64
+  - amd64
+  - i386
+host_network: true
+privileged: 
+  - NET_ADMIN
+options:
+  "ovpnfile": /share/homeassistant.ovpn
+  port: 8090
+schema:
+  "ovpnfile": str
+map:
+  - type: share
+    read_only: False
