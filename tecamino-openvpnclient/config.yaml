@@ -2,6 +2,7 @@ name: "Tecamino OpenVPN® Client"
 version: "0.0.3"
 slug: "tecamino-openvpnclient"
 description: "Connects Home Assisatnt to a remote OpenVPN® Server"
+url: https://github.com/zuadi/homeassistant-repo/edit/main/tecamino-openvpnclient
 startup: "application"
 boot: "auto"
 init: false
