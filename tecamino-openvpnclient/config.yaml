@@ -1,7 +1,12 @@
 name: "Tecamino VPN Client supports openvpn"
 version: "0.0.4"
 slug: "tecamino-openvpnclient"
+<<<<<<< HEAD
 description: "Connects Home Assistant to a remote VPN-Server"
+=======
+description: "Connects Home Assisatnt to a remote OpenVPN® Server"
+url: https://github.com/zuadi/homeassistant-repo/edit/main/tecamino-openvpnclient
+>>>>>>> 506bda9548402df2a82156c7149e111726b302d4
 startup: "application"
 boot: "auto"
 init: false
