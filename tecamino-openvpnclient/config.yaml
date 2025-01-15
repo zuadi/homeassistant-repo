@@ -1,5 +1,5 @@
 name: "Tecamino OpenVPN® Client"
-version: "0.0.1"
+version: "0.0.2"
 slug: "tecamino-openvpnclient"
 description: "Connects Home Assisatnt to a remote OpenVPN® Server"
 startup: "application"
