@@ -1,1 +1,1 @@
-# Tecamino simple Openvpn-client
+# Tecamino simple Openvpn Client
