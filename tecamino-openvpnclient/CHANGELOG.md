@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.5
+- optimize Dockerfile
+
+
 ## 0.0.4
 - change logo and name
 
