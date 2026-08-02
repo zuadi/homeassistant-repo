@@ -1,5 +1,5 @@
 name: "Tecamino VPN Client supports openvpn"
-version: "0.0.5"
+version: "0.0.6"
 slug: "tecamino-openvpnclient"
 description: "Connects Home Assistant to a remote VPN-Server"
 url: https://github.com/zuadi/homeassistant-repo/edit/main/tecamino-openvpnclient
