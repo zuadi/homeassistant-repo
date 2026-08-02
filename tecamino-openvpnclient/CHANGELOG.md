@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.0.6
+## 0.0.7
 - fix home assistant image
 
 ## 0.0.6
