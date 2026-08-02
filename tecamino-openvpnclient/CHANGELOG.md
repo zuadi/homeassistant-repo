@@ -1,6 +1,9 @@
 # Changelog
 
 ## 0.0.6
+- fix home assistant image
+
+## 0.0.6
 - add specific docker image version
 
 ## 0.0.5
