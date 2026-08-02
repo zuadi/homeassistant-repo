@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.0.6
+- add specific docker image version
+
 ## 0.0.5
 - optimize Dockerfile
 

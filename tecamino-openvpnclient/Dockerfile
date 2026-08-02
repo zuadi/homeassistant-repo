@@ -1,5 +1,6 @@
-ARG BUILD_FROM
+ARG BUILD_FROM=ghcr.io/home-assistant/amd64-base-alpine:3.19
 FROM $BUILD_FROM
+
 # start as root
 USER root
 LABEL zuercher=zuecher@tecamino.ch
