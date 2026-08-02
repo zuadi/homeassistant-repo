@@ -5,7 +5,7 @@ USER root
 LABEL zuercher=zuecher@tecamino.ch
 
 # install openvpn
-RUN apk add openvpn
+RUN apk add --no-cache openvpn
 
 # copy bash file to root of docker
 COPY run.sh /
